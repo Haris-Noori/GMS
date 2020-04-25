@@ -3,7 +3,7 @@
 
 <head>
     <title>Student Dashboard</title>
-    <link rel="stylesheet" href="../../css/operator_dashboard.css">
+    <link rel="stylesheet" href="../../css/tutor_dashboard.css">
 </head>
 
 <body>

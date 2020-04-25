@@ -5,7 +5,7 @@
 
 <head>
     <title>Search Participant | Operator</title>
-    <link rel="stylesheet" href="../../css/search_participant.css">
+    <link rel="stylesheet" href="../../css/myclasses_tutor.css">
 </head>
 
 <body>

@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <?php include "op_head.php" ?>
+    <?php include "tutor_head.php" ?>
             <!-- Operator Team Code Start -->
 
             <div class="container-fluid">

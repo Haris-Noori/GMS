@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="../../css/simple-sidebar.css" rel="stylesheet">
 
     <!--FONT LINK-->
-    <link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Text&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Baloo+Bhaina+2&family=Press+Start+2P&family=Russo+One&display=swap" rel="stylesheet">
 </head>
 <body>  
     <!-- Image and text -->
@@ -26,19 +26,14 @@
         <!-- Sidebar -->
         <div class="bg-light border-right" id="sidebar-wrapper">
             <div class="sidebar-heading">
-                <a class="navbar-brand" href="operator_dashboard.php">
-                    <img src="../../img/doomslogo.png" width="70" height="50" class="d-inline-block align-top" alt="">
-                    DOOMSDAY 2019
+                <a class="navbar-brand" href="tutor_dashboard.php">
+                    GYM
                 </a> </div>
             <div class="list-group list-group-flush">
-                <a href="my_profile.php" class="list-group-item list-group-item-action bg-light">My Profile</a>
-                <a href="search_participant.php" class="list-group-item list-group-item-action bg-light">Search
-                    Participant</a>
-                <a href="register_participant.php" class="list-group-item list-group-item-action bg-light">Register New
-                    Participant</a>
-                <a href="all_participants.php" class="list-group-item list-group-item-action bg-light">All Participants</a>
-                <a href="operator_team.php" class="list-group-item list-group-item-action bg-light">Operators Team</a>
-                <a href="#" class="list-group-item list-group-item-action bg-light">Feedback/Suggestions</a>
+                <a href="change_password.php" class="list-group-item list-group-item-action bg-light">Update Profile</a>
+                <a href="myclasses_tutor.php" class="list-group-item list-group-item-action bg-light">My Classes</a>
+                <a href="modify_class.php" class="list-group-item list-group-item-action bg-light">Modify Classes</a>
+                <a href="mystudents.php" class="list-group-item list-group-item-action bg-light">View My Students</a>
             </div>
         </div>
         <!-- /#sidebar-wrapper -->

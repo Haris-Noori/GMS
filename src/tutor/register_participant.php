@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <?php include "op_head.php"; ?>
+    <?php include "tutor_head.php"; ?>
     <link type="text/css" rel="stylesheet" href="../../css/register_participant.css">
     <!-- Register Participant Code Start -->
     <div class="container-fluid">
