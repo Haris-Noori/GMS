@@ -1,0 +1,83 @@
+#input1
+{
+    display: flex;
+    justify-content: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    height: 30px;
+    background: #0009;
+    
+}
+
+body
+{
+    font-family: 'Audiowide', cursive;
+    background-image: url("lock.png");
+    background-size: cover;
+    background-color:#0009; 
+}
+
+h2
+{
+    display: flex;
+    justify-content: center;
+}
+
+.main-div
+{
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.login
+{
+    margin-top: 100px;
+    text-align: center; 
+    width: 30%;
+    /* border: 1px solid; */
+
+    background: #056644;
+}
+
+/* p
+{
+    padding-left: 180px;
+} */
+
+.btn
+{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 20px;
+    width: 30%;
+    margin-left: 178px;
+    
+}
+
+#message input{ 
+
+    padding: 50px 300px 50px 50px;
+    border: solid black;
+    justify-content: center;
+}
+
+#input1 input{
+    border: solid black;
+}
+
+footer {
+    margin-top: 500px;
+    text-align: center;
+    color: white;
+    background: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

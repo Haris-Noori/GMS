@@ -1,0 +1,29 @@
+body
+{
+    font-family: 'Audiowide', cursive;
+}
+
+.mynavbar
+{
+    background: orange;
+}
+
+.navbar-brand a
+{
+    color: black;
+}
+
+.mytable
+{
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.head3
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 10px;
+}

@@ -1,0 +1,48 @@
+.mynavbar
+{
+    background: orange;
+}
+
+.navbar-brand
+{
+    font-size: 40px;
+}
+
+.myul li
+{
+    list-style-type: none;
+    display: inline-block; 
+    margin: 5px;
+    font-size: 25px;
+}
+
+.myul li a
+{
+    color: black;
+}
+
+#head
+{
+    margin-left: 475px;
+    margin-top: 20px;
+    font-size: 40px;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+    width: 360px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.myform
+{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 900px;
+}
+
+h4
+{
+    color: white;
+}
